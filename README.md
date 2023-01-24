@@ -1,5 +1,5 @@
 # SGG
-Group 4
+Group 4 final assignment
 Steam Game Genre
 
 
